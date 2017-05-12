@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DemoAndroidApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="txtuser">UserName</string>
+    <string name="txtPass">Pass</string>
+    <string name="fogotpass">Quên mật khẩu ?</string>
+</resources>
